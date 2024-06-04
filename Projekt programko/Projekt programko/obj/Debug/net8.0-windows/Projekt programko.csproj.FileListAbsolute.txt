@@ -1,0 +1,23 @@
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\bin\Debug\net8.0-windows\Projekt programko.exe
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\bin\Debug\net8.0-windows\Projekt programko.deps.json
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\bin\Debug\net8.0-windows\Projekt programko.runtimeconfig.json
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\bin\Debug\net8.0-windows\Projekt programko.dll
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\bin\Debug\net8.0-windows\Projekt programko.pdb
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Game.g.cs
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko_MarkupCompile.cache
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko_MarkupCompile.lref
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Game.baml
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko.g.resources
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko.AssemblyInfoInputs.cache
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko.AssemblyInfo.cs
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko.csproj.CoreCompileInputs.cache
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko.sourcelink.json
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko.dll
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\refint\Projekt programko.dll
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko.pdb
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\Projekt programko.genruntimeconfig.cache
+C:\Users\cronn\Documents\Delta\Programovani\Projekt programko\Projekt programko\obj\Debug\net8.0-windows\ref\Projekt programko.dll
